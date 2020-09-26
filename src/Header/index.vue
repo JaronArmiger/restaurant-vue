@@ -1,5 +1,8 @@
 <template>
-  <p>header</p>
+  <div>
+    <p>header</p>
+    <img src='../assets/images/background.jpg'>
+  </div>
 </template>
 
 <script src='./script.js'></script>
