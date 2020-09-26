@@ -1,5 +1,5 @@
 <template>
-  <p>header</p>
+  <p>header fuck</p>
 </template>
 
 <script src='./script.js'></script>
