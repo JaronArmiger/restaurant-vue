@@ -4,7 +4,7 @@ import Contact from '../Contact/index.vue';
 export default {
   name: 'DisplayContainer',
   components: {
-  	'menu': Menu,
+  	'menu-comp': Menu,
   	'contact': Contact,
   },
   data() {
