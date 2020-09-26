@@ -1,19 +1,15 @@
 import Header from '../Header/index.vue';
+import DisplayContainer from '../DisplayContainer/index.vue';
 
 export default {
   name: 'App',
   components: {
   	'page-header': Header,
+    'display-container': DisplayContainer,
   },
   data() {
     return {
-      display: 1,
+      
     }
   },
-  methods: {
-  	changeDisplay(val) {
-  	  this.display = val;
-  	  console.log(this.display);
-  	}
-  }
 }
